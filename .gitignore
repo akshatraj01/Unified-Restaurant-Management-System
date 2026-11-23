@@ -1,0 +1,16 @@
+# Compiled binaries
+urms
+urms.exe
+*.o
+*.obj
+
+# Runtime data and backups
+data/*.dat
+data/audit.log
+backups/*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
